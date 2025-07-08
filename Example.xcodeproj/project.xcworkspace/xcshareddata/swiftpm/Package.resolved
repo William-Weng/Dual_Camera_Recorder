@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "wwcachemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWCacheManager",
+      "state" : {
+        "revision" : "34d65216cf3b036a820b91f1070134227edb19a2",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "wwcamerazoomoptionview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWCameraZoomOptionView",
+      "state" : {
+        "revision" : "a4352af7fa14c612e54a878c9c51e474e52645df",
+        "version" : "1.1.2"
+      }
+    },
+    {
+      "identity" : "wwcompositionallayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWCompositionalLayout",
+      "state" : {
+        "revision" : "0ad856af8cdadf5b2f56a752b1b70141b09e1863",
+        "version" : "1.1.5"
+      }
+    },
+    {
+      "identity" : "wwdualcamera",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWDualCamera",
+      "state" : {
+        "revision" : "52b1bb03840e98f98824d634001e4fcf8432e170",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "wwprint",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWPrint",
+      "state" : {
+        "revision" : "8f5928f5d36624d77f8fc563fd8e31a59cfac6b6",
+        "version" : "1.3.1"
+      }
+    }
+  ],
+  "version" : 2
+}

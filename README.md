@@ -10,3 +10,6 @@
 - 長按可以對焦
 
 ![](Example.webp)
+
+### [免責聲明] 千萬不要拿來做壞事喲…
+<img width="360" height="279" alt="警察叔叔就是這個人" src="https://github.com/user-attachments/assets/48fb9901-9ab1-48ce-9c96-49c42636a2c2" />
